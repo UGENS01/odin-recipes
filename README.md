@@ -1,0 +1,2 @@
+The aim of this project is to create a website that will consist of a main index page and will have links to a few recipes
+At the end of the project, the project will be used to access the skills have and had been learning all this while
